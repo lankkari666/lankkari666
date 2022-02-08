@@ -21,9 +21,9 @@
 ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white)
 -->
 
-### Hi there, I'm Savva - aka [lankkari]👋 
+### Hi there, I'm Savva - aka [lankkari]
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking for inspiration
 - 🥅 2022 Goals: Become real front-end web-dev
 - ⚡ Fun fact: I'm ex semi-pro CS:GO player.
