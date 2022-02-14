@@ -51,8 +51,8 @@
 ---
 
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=lankkari666&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/lankkari666/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=lankkari666&layout=compact)](https://github.com/lankkari666/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=lankkari666&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/lankkari666/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=lankkari666&theme=radical&layout=compact)](https://github.com/lankkari666/github-readme-stats)
 
 [telegram]: https://t.me/hatekkari
 [instagram]: https://www.instagram.com/hatekkari
