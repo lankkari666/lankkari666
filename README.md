@@ -248,9 +248,6 @@
             />
           </a>
         </p>
-<br />
-<br />
-
 ---
 
 ## Some of my Github Stats
